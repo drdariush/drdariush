@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drdariush, Dariush Mirfendereski
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science / Python at Le Wagon bootcamp in London
+- 🌱 I’m currently an MSc student in Machine Learning at UCL
 - 💞️ 26 years in finance; interested in ML applications in finance
 - 📫 How to reach me ...
 
